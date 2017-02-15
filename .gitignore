@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+non-vehicles/
+vehicles/
+test_codes.ipynb
+vehicle_detection_main.ipynb
+writeup.docx
